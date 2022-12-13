@@ -7,4 +7,4 @@ All of the functionality of the MT5 WebAPI fully integrated with Laravel.
 
 This documentation references a seperate private repository. 
 
-[Click Here For Full Details](https://developeroncall.github.io/mt5webapi/)
+[Click Here For Full Details](https://nerdsnipe.github.io/mt5webapi/)
